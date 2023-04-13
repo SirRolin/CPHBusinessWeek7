@@ -1,0 +1,8 @@
+Hvad gør metoden instanceof?
+    - Metoden checker om Objectet arver eller er en klasse.
+Hvad vil det sige at en metode er abstrakt?
+    - abstract betyder klasser som arver den klasse skal definere en metode som overskriver den abstrakte metode.
+Kan man have en ikke-abstrakt klasse med en abstrakt metode? Hvis ikke, hvorfor ikke?
+    - Nej, det kan man ikke fordi metoden skal være defineret i en metode, og abstrakte metoder er ikke defineret, de er kun for arv.
+Hvad betyder @override?
+    - @Override er en annotation, en kommentar som compilerens intellisense kan bruge til, at advare hvis functionen ikke overskriver en funktion i en arvet klasse.
